@@ -1,5 +1,3 @@
-# StackOverflow-Insights-SQL
-
 # Stack Overflow Data Analysis Project
 
 ## Project Overview
